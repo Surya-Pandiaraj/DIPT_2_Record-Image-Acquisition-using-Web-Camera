@@ -4,7 +4,7 @@
 
 ## EX. No. 2 : Record Image Acquisition using Web Camera
 
-## Aim
+## Aim:
 
 To write a Python program using OpenCV to capture an image from the webcam and perform the following operations:
 
@@ -15,7 +15,7 @@ To write a Python program using OpenCV to capture an image from the webcam and p
 
 ---
 
-## 🛠️ Software Used
+## Software Used:
 
 - Anaconda – Python 3.7  
 - Jupyter Notebook / VS Code  
@@ -23,7 +23,7 @@ To write a Python program using OpenCV to capture an image from the webcam and p
 
 ---
 
-## ⚙️ Algorithm
+## Algorithm:
 
 ### Step 1:
 Import the required libraries and initialize the webcam using `cv2.VideoCapture()`.
@@ -42,7 +42,7 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 
 ---
 
-## 💻 Program
+## Program:
 
 ### Developed By:
 **Name:** Surya P
@@ -52,7 +52,7 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 
 ---
 
-## Output
+## Output:
 
 ### i) Write the frame as JPG image
 Captured image is saved as `captured_image.jpg`
@@ -73,7 +73,6 @@ plt.axis('off')
 plt.show()
 ```
 
-<img width="578" height="445" alt="Screenshot 2026-08-06 085730" src="https://github.com/user-attachments/assets/2f826056-f412-408b-8e8a-fb7b66e4d9fa" />
 
 
 
@@ -96,7 +95,6 @@ for i in range(50):
 cap.release()
 ```
 
-<img width="578" height="445" alt="Screenshot 2026-08-06 085730" src="https://github.com/user-attachments/assets/33d3c59c-c055-4dae-b73a-d581cf0caa70" />
 
 
 
@@ -120,7 +118,6 @@ for i in range(50):
 cap.release()
 ```
 
-<img width="292" height="438" alt="Screenshot 2026-08-06 085810" src="https://github.com/user-attachments/assets/416c5036-be1d-481b-8ba0-7ed8da69eb66" />
 
 
 ### iv) Rotate and display the video
@@ -143,12 +140,11 @@ for i in range(50):
 cap.release()
 ```
 
-<img width="332" height="441" alt="Screenshot 2026-08-06 085851" src="https://github.com/user-attachments/assets/d2f3bff0-22c9-4558-8972-54e6b3e263d8" />
 
 
 ---
 
 
-## Result
+## Result:
 
 Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
