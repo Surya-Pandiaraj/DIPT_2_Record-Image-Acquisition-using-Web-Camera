@@ -46,9 +46,7 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 
 ### Developed By:
 **Name:** Surya P
-
-### Register No:
-    212224230280
+**Register No:** 212224230280
 
 ---
 
@@ -73,6 +71,7 @@ plt.axis('off')
 plt.show()
 ```
 
+<img width="672" height="522" alt="Screenshot 2026-11-18 224202" src="https://github.com/user-attachments/assets/ca9c1b85-ca77-42cb-9135-3c91f5be17ec" />
 
 
 
@@ -94,6 +93,7 @@ for i in range(50):
 
 cap.release()
 ```
+<img width="675" height="505" alt="Screenshot 2026-11-18 224233" src="https://github.com/user-attachments/assets/c3d4730a-2e51-4051-9379-ef5aecc04ca3" />
 
 
 
@@ -117,6 +117,7 @@ for i in range(50):
 
 cap.release()
 ```
+<img width="387" height="510" alt="Screenshot 2026-11-18 224309" src="https://github.com/user-attachments/assets/6fb72092-f84e-42c6-8ff6-7ae7e6280ff8" />
 
 
 
@@ -140,6 +141,7 @@ for i in range(50):
 cap.release()
 ```
 
+<img width="382" height="505" alt="image" src="https://github.com/user-attachments/assets/dd7dfa1f-b99b-4193-aa08-e4ec6f68fd95" />
 
 
 ---
